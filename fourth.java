@@ -5,7 +5,7 @@ import java.util.List;
 
 public class fourth {
 	public static void main(String[] args) {
-		
+		   
 		//Collections hold data, Streams process data.
 		//Collection Example:
 		

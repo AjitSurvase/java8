@@ -9,7 +9,7 @@ public class five {
 		
 		List<String>names=Arrays.asList("Ajit","Shivam","mahesh");
 		
-		
+		  
 		names.stream()
 		.map(String::toUpperCase)
 		.forEach(System.out::println);

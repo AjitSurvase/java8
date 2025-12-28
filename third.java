@@ -5,7 +5,7 @@ import java.util.List;
 
 public class third {
 	
-	
+	   
 	public static void main(String[] args) {
 		
 		List<Integer>number=Arrays.asList(1, 2, 3, 4, 5);
