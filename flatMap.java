@@ -16,6 +16,8 @@ public class flatMap {
 			);
 		
 		
+		System.out.println("************************");
+		
 		
 //		You want all names in one stream.
 		
@@ -36,6 +38,13 @@ public class flatMap {
 		 .forEach(System.out::println);
 		 
 		
+		  
+//		  Before flatMap()
+//		  [ [Ajit, Shivam], [Mahesh, Ravi] ]
+//
+//		  After flatMap()
+//		  [ Ajit, Shivam, Mahesh, Ravi ]
+//		  
 
 
 	}
