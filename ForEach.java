@@ -13,7 +13,7 @@ public class ForEach {
 
 		        names.stream()
 		             .forEach(System.out::println);
-		        
+		            
 		        
 		        
 		        
