@@ -1,4 +1,4 @@
-package Stream_program_terminal_operation;
+package Stream_program;
 
 import java.util.Arrays;
 import java.util.List;
