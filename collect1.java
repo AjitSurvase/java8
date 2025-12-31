@@ -8,7 +8,7 @@ public class collect1 {
 	
 	public static void main(String[] args) {
 		
-		
+//		1️ Collectors.toList()
 		
 	    List<Integer> nums = Arrays.asList(1, 2, 3, 4);
 		
