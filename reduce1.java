@@ -13,7 +13,7 @@ public class reduce1 {
 		
 		 Optional<Integer>result=nums.stream()
 		.reduce((a,b)->a+b);
-		
+//		 reduce() returns Optional because the stream may be empty, and there may be no result to return.
 		
 		System.out.println(result);
 		
