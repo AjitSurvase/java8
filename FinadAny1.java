@@ -18,7 +18,7 @@ public class FinadAny1 {
 		System.out.println(result.get());
 		
 		
-//		Example 2: Parallel Stream (IMPORTANT 🔥)
+//		Example 2: Parallel Stream (IMPORTANT )
 		
 		Optional<Integer> result1 =
 		        nums.parallelStream()
@@ -26,7 +26,7 @@ public class FinadAny1 {
 
 		System.out.println(result1.get());
 
-		
+//		findAny() is optimized for parallel streams and may return any element without preserving order.
 	}
 
 }
